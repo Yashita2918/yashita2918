@@ -45,10 +45,10 @@
 
 | Project | What It Does | Key Skills |
 |---|---|---|
-| [ping-pong-game](https://github.com/yashitagupta/ping-pong-game) | Classic 2-player Pong game | Turtle graphics, OOP, Game logic |
-| [pomodoro](https://github.com/yashitagupta/pomodoro) | Pomodoro productivity timer | Tkinter GUI, Time management logic |
-| [quizzler](https://github.com/yashitagupta/quizzler) | Quiz app with trivia questions | OOP, APIs, Tkinter |
-| [snake-game-part-2-final](https://github.com/yashitagupta/snake-game-part-2-final) | Classic Snake game | Turtle graphics, OOP, Collision detection |
-| [turtle-crossing-start](https://github.com/yashitagupta/turtle-crossing-start) | Frogger-style crossing game | Turtle graphics, OOP, Difficulty scaling |
+| [ping-pong-game](https://github.com/yashita2918/ping-pong-game) | Classic 2-player Pong game | Turtle graphics, OOP, Game logic |
+| [pomodoro](https://github.com/yashita2918/pomodoro) | Pomodoro productivity timer | Tkinter GUI, Time management logic |
+| [quizzler](https://github.com/yashita2918/quizzler) | Quiz app with trivia questions | OOP, APIs, Tkinter |
+| [snake-game-part-2-final](https://github.com/yashita2918/snake-game-part-2-final) | Classic Snake game | Turtle graphics, OOP, Collision detection |
+| [turtle-crossing-start](https://github.com/yashita2918/turtle-crossing-start) | Frogger-style crossing game | Turtle graphics, OOP, Difficulty scaling |
 
 > All projects built with Python 🐍 — actively expanding this portfolio!
