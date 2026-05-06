@@ -12,7 +12,7 @@
 - 🌱 Actively building a Python project portfolio — check out my pinned repos below!
 - 🔍 Open to graduate & entry-level roles in **Business Analysis, Data, and Technology**
 - 📍 Based in Canberra, Australia
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashitagupta-717035222)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashita-gupta-717035222/)
 
 ---
 
